@@ -1,0 +1,6 @@
+@OnlineCaseManager_HostAddress = http://localhost:5039
+
+GET {{OnlineCaseManager_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
